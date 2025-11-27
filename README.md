@@ -12,10 +12,11 @@ X.Y.Shi, Z.Y.Liu, S.Y.Yin
 
 1. Raw Folder:
 
-Multiple zips, the raw material from cnadidates.
+Multiple zips, the raw material from candidates.
 
 2. Output Folder:
 
 The processed files of 5 categories:
 
 Each category contains multiple folders which is for every candidates, including all relevant images; and a summary file in word format.
+
